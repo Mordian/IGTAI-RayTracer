@@ -1,0 +1,3 @@
+/cygdrive/d/Travail/Licence/S2/Informatique graphique/IGTAI-RayTracer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/Travail/Licence/S2/Informatique graphique/IGTAI-RayTracer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/d/Travail/Licence/S2/Informatique graphique/IGTAI-RayTracer/cmake-build-debug/CMakeFiles/IGTAI_RayTracer.dir
